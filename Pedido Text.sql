@@ -233,5 +233,5 @@ GROUP by
 	tab1.STATUS_PEDIDO,	tab1.COMPRADOR,tab1.DATA_PEDIDO,tab1.FORN_COD,tab1.FORN_NOME,
 	tab1.FORN_CNPJ,	tab1.REQUISITANTE,tab1.COD_EMPRESA,tab1.NOME_EMPRESA,tab1.COD_UNIDADE,tab1.NOME_UNIDADE,
 	tab1.ESTRATEGIA_APROVACAO,tab1.NIVEL_APROVACAO_ATUAL,tab1.NIVEIS_APROVACAO,
-	tab1.aprovacao_1,tab1.aprovacao_2,tab1.aprovacao_3,tab1.aprovacao_4,tab1.aprovacao_5,tab1.aprovacao_6,tab1.aprovacao_7,tab1.aprovacao_8
+	tab1.aprovacao_1,tab1.aprovacao_2,tab1.aprovacao_3,tab1.aprovacao_4,tab1.aprovacao_5,tab1.aprovacao_6,tab1.aprovacao_7,tab1.aprovacao_8,
 	tab1.aprovador_1,tab1.aprovador_2,tab1.aprovador_3,tab1.aprovador_4,tab1.aprovador_5,tab1.aprovador_6,tab1.aprovador_7,tab1.aprovador_8
