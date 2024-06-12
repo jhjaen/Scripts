@@ -450,5 +450,5 @@ GROUP BY
   code_aprovacao,
   area,
   APROVACAO_2,
-  dt_criacao,
+  dt_criacao
   tp_requisicao

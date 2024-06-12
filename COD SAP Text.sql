@@ -590,5 +590,5 @@ GROUP by
   tab1.aprovador_4,
   tab1.aprovador_5,
   tab1.aprovador_6,
-  tab1.aprovador_7,
+  tab1.aprovador_7
   tab1.aprovador_8

@@ -615,5 +615,5 @@ GROUP by
   tab1.aprovador_7,
   tab1.aprovador_8,
   tab1.BSART,
-  tab1.validade_contrato,
+  tab1.validade_contrato
   tab1.valor_saldo_pedido
